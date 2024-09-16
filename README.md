@@ -18,7 +18,7 @@
 
 2.3. [x] [Классификация и категоризация информации, информационных систем](01_inf_security_basics/02_reg_inf_sec/2.3_classification_inf_sec/homework_2.3.md)
 
-2.4. [x] Лицензирование, аттестация, сертификация
+2.4. [x] [Лицензирование, аттестация, сертификация](01_inf_security_basics/02_reg_inf_sec/2.4_certification_inf_sec/homework_2.4.md)
 
 2.5. [x] Моделирование угроз
 
