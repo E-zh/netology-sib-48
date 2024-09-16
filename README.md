@@ -20,7 +20,7 @@
 
 2.4. [x] [Лицензирование, аттестация, сертификация](01_inf_security_basics/02_reg_inf_sec/2.4_certification_inf_sec/homework_2.4.md)
 
-2.5. [x] Моделирование угроз
+2.5. [x] [Моделирование угроз](01_inf_security_basics/02_reg_inf_sec/2.5_threads/homework_2.5.md)
 
 ## Блок 3. Криптографическая защита информация
 
