@@ -32,4 +32,4 @@
 
 Задание выполнено в шаблоне:
 * [Ссылка на файл, расположенный в этом репозитории](assets/Моделирование_угроз_SIB-48.docx)
-* [Ссылка на файл, расположенный в Google Drive](https://docs.google.com/document/d/1MMEthJvW-6hRo9BoTVaHdfywGyxPZTDd/edit?usp=sharing&ouid=102224985767039144519&rtpof=true&sd=true)
+* [Ссылка на файл, расположенный в Google Drive](https://docs.google.com/document/d/1UEOTGsPBwkc2DLsJWoWvk8vY6q4ZsCbK/edit?usp=sharing&ouid=102224985767039144519&rtpof=true&sd=true)
