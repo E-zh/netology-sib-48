@@ -13,6 +13,8 @@
 
 ### Ответ:
 
+1. Функция хэширования - `GOST R 34.11-94`
+2. Пароль - `MARINA`
 
 ---
 
@@ -22,3 +24,9 @@
 
 ### Ответ:
 
+1. [Ссылка на контейнер](assets/container)
+2. Пароль - `m{$99W7%*lM*bGvFf|Fs#k@jf?We}ykd`
+
+Диск примонтировался, положил внутрь текстовый файл из первого задания [10-million-password-list-top-100000.txt](assets/10-million-password-list-top-100000.txt):
+
+![](assets/screen.jpg)
