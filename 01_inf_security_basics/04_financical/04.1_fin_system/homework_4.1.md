@@ -136,22 +136,15 @@
     ```text
     [["Amount","100000"],["Description","Подарочная карта на 1000 рублей"],["OrderId","10001"],["Password","TopSecret"],["TerminalKey","TerminalKey"]]
     ```
-   
-3. Теперь преобразуем значение ключа `description` в base64:
+    
+3. Далее конкатенируем значение в `1000000Подарочная карта на 1000 рублей10001TopSecretTerminalKey`
+4. Вычисляем хэш `sha256` из строки, который и будет являться токеном:
     ```shell
-    $ echo 'Подарочная карта на 1000 рублей' | openssl enc -base64
-    0J/QvtC00LDRgNC+0YfQvdCw0Y8g0LrQsNGA0YLQsCDQvdCwIDEwMDAg0YDRg9Cx
-    0LvQtdC5Cg==
+    $ echo '1000000Подарочная карта на 1000 рублей10001TopSecretTerminalKey' | openssl dgst -sha256
+    SHA2-256(stdin)= bc2a28deed6e729718d996a5c78e101835c1cc89b962636f66d611aac4f75771
     ```
    
-4. Далее конкатенируем значение в `1000000J/QvtC00LDRgNC+0YfQvdCw0Y8g0LrQsNGA0YLQsCDQvdCwIDEwMDAg0YDRg9Cx0LvQtdC5Cg==10001TopSecretTerminalKey`
-5. Вычисляем хэш `sha256` из строки, который и будет являться токеном:
-    ```shell
-    $ echo '1000000J/QvtC00LDRgNC+0YfQvdCw0Y8g0LrQsNGA0YLQsCDQvdCwIDEwMDAg0YDRg9Cx0LvQtdC5Cg==10001TopSecretTerminalKey' | openssl dgst -sha256
-    SHA2-256(stdin)= 067bd1ff9bf7521e574cf4d62edcb5db7b788da0968bab7684ad8a0f47d3813c
-    ```
-   
-Ответ на задание: Token - `067bd1ff9bf7521e574cf4d62edcb5db7b788da0968bab7684ad8a0f47d3813c`
+Ответ на задание: Token - `bc2a28deed6e729718d996a5c78e101835c1cc89b962636f66d611aac4f75771`
 
 ### Дополнительное задание
 Шифрование карточных данных
