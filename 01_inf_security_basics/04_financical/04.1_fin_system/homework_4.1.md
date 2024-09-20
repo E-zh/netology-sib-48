@@ -180,7 +180,7 @@
    ```shell
    $ openssl pkeyutl -encrypt -pubin -inkey public.key -in message.txt -out cypher.txt
    
-   openssl enc -base64 -in cypher.txt -out msg.base64
+   $ openssl enc -base64 -in cypher.txt -out msg.base64
    ```
    
 4. В результате получаем зашифрованный файл [cypher.txt](assets/cypher.txt) и закодированный файл [msg.base64](assets/msg.base64)
