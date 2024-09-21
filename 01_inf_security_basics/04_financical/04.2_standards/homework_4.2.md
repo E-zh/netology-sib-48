@@ -41,7 +41,7 @@
 
 ### Задача №2 - CIS Benchmarks*
 
-Организация [CIS](https://www.cisecurity.org/) предоставляет возможность скачать и просмотреть [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
+Организация [CIS](https://www.cisecurity.org/) предоставляет возможность скачать и просмотреть [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 
 Вам необходимо ознакомиться с бенчмарками на:
 * [Apple iOS (iOS 13 v1.0.0)](assets/CIS_Apple_iOS_13_and_iPadOS_13_Benchmark_v1.0.0.pdf)
