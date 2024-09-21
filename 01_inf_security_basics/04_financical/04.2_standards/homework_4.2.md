@@ -44,6 +44,7 @@
 Организация [CIS](https://www.cisecurity.org/) предоставляет возможность скачать и просмотреть [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 
 Вам необходимо ознакомиться с бенчмарками на:
+
 	* Apple iOS (iOS 13 v1.0.0)
 	* Google Android (v1.3.0) - на сайте доступен для загрузки документ **v1.5.0**
 
