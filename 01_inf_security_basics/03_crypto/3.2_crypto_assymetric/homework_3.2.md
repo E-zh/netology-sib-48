@@ -86,11 +86,8 @@
    sub   rsa2048 2020-08-18 [E]
    ```
    
-2. Но увы, файл не расшифровывается и валидность не проходит:
+2. Выполняем команду, расшифровываем сообщение:
 ```shell
-$ gpg --decrypt -o message.enc netology.gpg
-gpg: decrypt_message failed: Unexpected error
-
 $ gpg --decrypt message.enc
 gpg: encrypted with rsa2048 key, ID 423BB7DA845A8006, created 2020-08-18
       "netology <student@netology>"
@@ -103,3 +100,5 @@ gpg: WARNING: The key's User ID is not certified with a trusted signature!
 gpg:          There is no indication that the signature belongs to the owner.
 Primary key fingerprint: EFDD D64E C65A 89E7 D882  E12D EC12 A0D8 D7C8 B540
 ```
+
+3. Как видно выше, в четвертой строке то самое сообщение - `1984`. А также информация о том, что подпись валидна, но не сертифицирована.
