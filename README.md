@@ -32,4 +32,4 @@
 
 4.1 [x] [Финансовые системы](01_inf_security_basics/04_financical/04.1_fin_system/homework_4.1.md)
 
-4.2 [x] Международные и отраслевые стандарты
+4.2 [x] [Международные и отраслевые стандарты](01_inf_security_basics/04_financical/04.2_standards/homework_4.2.md)
