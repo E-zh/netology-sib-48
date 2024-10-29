@@ -33,3 +33,11 @@
 4.1 [x] [Финансовые системы](01_inf_security_basics/04_financical/04.1_fin_system/homework_4.1.md)
 
 4.2 [x] [Международные и отраслевые стандарты](01_inf_security_basics/04_financical/04.2_standards/homework_4.2.md)
+
+# Модуль "Сети передачи данных и безопасность"
+
+## Блок 1. Сетевые устройства и протоколы
+
+1.1. [x] [ОС Linux (нет ДЗ)](02_network_inf_security/01_lan_and_protocols/1.1_os_linux/readme.md)
+
+1.2. [x] [Сетевые технологии, ключевые устройства](02_network_inf_security/01_lan_and_protocols/1.2_net_technology/homework_1.2.md)
