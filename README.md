@@ -41,3 +41,6 @@
 1.1. [x] [ОС Linux (нет ДЗ)](02_network_inf_security/01_lan_and_protocols/1.1_os_linux/readme.md)
 
 1.2. [x] [Сетевые технологии, ключевые устройства](02_network_inf_security/01_lan_and_protocols/1.2_net_technology/homework_1.2.md)
+
+1.3. [x] [Протоколы сетевого уровня (IPv4, IPv6)](02_network_inf_security/01_lan_and_protocols/1.3_net_protocols/homework_1.3.md)
+
