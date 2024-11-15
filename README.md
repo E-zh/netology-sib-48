@@ -46,3 +46,7 @@
 
 1.4. [x] [Протоколы транспортного уровня (TCP, UDP)](02_network_inf_security/01_lan_and_protocols/1.4_tcp_dump/homework_1.4.md)
 
+## Блок 2. Работа в сети Интернет и беспроводных сетях
+
+2.1. [x] [Виртуальные частные сети VPN](02_network_inf_security/02_internet_wifi/2.1_vpn/homework_2.1.md)
+
