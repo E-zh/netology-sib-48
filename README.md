@@ -50,3 +50,5 @@
 
 2.1. [x] [Виртуальные частные сети VPN](02_network_inf_security/02_internet_wifi/2.1_vpn/homework_2.1.md)
 
+2.2. [x] [Беспроводные сети Wi-Fi](02_network_inf_security/02_internet_wifi/2.2_wifi/homework_2.2.md)
+
