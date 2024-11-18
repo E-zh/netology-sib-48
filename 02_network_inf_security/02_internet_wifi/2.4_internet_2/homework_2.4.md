@@ -22,4 +22,4 @@
     ![](assets/chrome_cert2.jpg):
     * информация о сертификате в windows:  
     ![](assets/win_cert.jpg)
-    * также прилагаю и сам [сертификат](assets/netology.local.crt).
+    * также прилагаю и сам [сертификат](assets/netology.local.crt), и дополнительно [сертификат в архиве](assets/netology.local.zip).
