@@ -54,3 +54,5 @@
 
 2.3. [x] [Работа сети Интернет (часть 1): BGP, DNS](02_network_inf_security/02_internet_wifi/2.3_internet_1/homework_2.3.md)
 
+2.4. [x] [Работа сети Интернет (часть 2): HTTP, HTTPS, HTTP2](02_network_inf_security/02_internet_wifi/2.4_internet_2/homework_2.4.md)
+
