@@ -56,3 +56,7 @@
 
 2.4. [x] [Работа сети Интернет (часть 2): HTTP, HTTPS, HTTP2](02_network_inf_security/02_internet_wifi/2.4_internet_2/homework_2.4.md)
 
+## Блок 3. Обеспечение безопасности сетей
+
+3.1. [x] [Основы сетевой безопасности](02_network_inf_security/03_basic_net_security/01_net_sec/homework_3.1.md)
+
