@@ -58,5 +58,7 @@
 
 ## Блок 3. Обеспечение безопасности сетей
 
-3.1. [x] [Основы сетевой безопасности](02_network_inf_security/03_basic_net_security/01_net_sec/homework_3.1.md)
+3.1. [x] [Основы сетевой безопасности](02_network_inf_security/03_basic_net_security/3.1_net_sec/homework_3.1.md)
+
+3.2. [x] [Атаки](02_network_inf_security/03_basic_net_security/3.2_attacks/homework_3.2.md)
 
