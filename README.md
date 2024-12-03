@@ -62,3 +62,5 @@
 
 3.2. [x] [Атаки](02_network_inf_security/03_basic_net_security/3.2_attacks/homework_3.2.md)
 
+3.3. [x] [Организация безопасности сети](02_network_inf_security/03_basic_net_security/3.3_safe_lan/homework_3.3.md)
+
