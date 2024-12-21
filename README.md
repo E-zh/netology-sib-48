@@ -64,3 +64,9 @@
 
 3.3. [x] [Организация безопасности сети](02_network_inf_security/03_basic_net_security/3.3_safe_lan/homework_3.3.md)
 
+# Модуль "Безопасность операционных систем, системное программирование"
+
+## Блок 1. ОС Windows
+
+1.1. [x] [ОС Windows. Часть 1](03_OS_security_system_programming/01_OS_Windows/1.1_os_win_part_1/homework_1.1.md)
+
