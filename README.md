@@ -70,3 +70,4 @@
 
 1.1. [x] [ОС Windows. Часть 1](03_OS_security_system_programming/01_OS_Windows/1.1_os_win_part_1/homework_1.1.md)
 
+1.2. [x] [ОС Windows. Часть 2](03_OS_security_system_programming/01_OS_Windows/1.2_os_win_part_2/homework_1.2.md)
