@@ -76,5 +76,5 @@
 
 2.1. [x] [ОС Linux. Часть 1]()
 
-2.2. [x] [ОС Linux. Часть 2](03_OS_security_system_programming/02_OS_Linux/2.1_os_linux_part_2/homework_2.2.md)
+2.2. [x] [ОС Linux. Часть 2](03_OS_security_system_programming/02_OS_Linux/2.2_os_linux_part_2/homework_2.2.md)
 
