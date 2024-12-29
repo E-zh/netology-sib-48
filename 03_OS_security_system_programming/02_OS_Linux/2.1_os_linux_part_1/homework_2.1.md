@@ -21,25 +21,12 @@
 * `-m 1800` - указываем что наш хэш SHA-512
 * `-a 0` - указываем вид атаки, в данном случае по словарю
 
-Выполняем команду, и видим, что в данном случае пароль это - `fear`:
+Ввиду особенности моей виртуальной машины, сначала я получил ошибку, выполнив команду `hashcat -m 1800 -a 0 '$6$iMDxXB6C.bGVPgP/$dzNU7.0TSuoY8LUBKInul8kkDbjNsTEJWC6ake4pBi9Mf8icvzTm7aydpgs7ciJsRurui/SVBHsKWP0Ji4f7U1' 10-million-password-list-top-100000.txt`:
 
-```shell
-hashcat -m 1800 -a 0 '$6$iMDxXB6C.bGVPgP/$dzNU7.0TSuoY8LUBKInul8kkDbjNsTEJWC6ake4pBi9Mf8icvzTm7aydpgs7ciJsRurui/SVBHsKWP0Ji4f7U1' 10-million-password-list-top-100000.txt
+![](assets/vm_error.jpg)
 
-Host memory required for this attack: 248 MB
+Но затем нашел информацию на сайте hashcat, добавил флаг `--force`. Выполняем команду, и видим, что в данном случае пароль это - `fear` (на втором скриншоте):
 
-Dictionary cache hit:
-* Filename..: 10-million-password-list-top-100000.txt
-* Passwords.: 100000
-* Bytes.....: 781896
-* Keyspace..: 100000
+![](assets/hashcat_1.jpg)
 
-$6$iMDxXB6C.bGVPgP/$dzNU7.0TSuoY8LUBKInul8kkDbjNsTEJWC6ake4pBi9Mf8icvzTm7aydpgs7ciJsRurui/SVBHsKWP0Ji4f7U1:fear
-                                                          
-Session..........: hashcat
-Status...........: Cracked
-Hash.Mode........: 1800 (sha512crypt $6$, SHA512 (Unix))
-Hash.Target......: $6$iMDxXB6C.bGVPgP/$dzNU7.0TSuoY8LUBKInul8kkDbjNsTE...i4f7U1
-Time.Started.....: Sun Dec 29 09:55:52 2024 (1 sec)
-Time.Estimated...: Sun Dec 29 09:55:53 2024 (0 secs)
-```
+![](assets/hashcat_2.jpg)
