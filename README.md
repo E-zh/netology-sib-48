@@ -78,3 +78,6 @@
 
 2.2. [x] [ОС Linux. Часть 2](03_OS_security_system_programming/02_OS_Linux/2.2_os_linux_part_2/homework_2.2.md)
 
+## Блок 3. Использование скриптовых языков
+
+3.1. [x] [Использование командных оболочек. Часть 1](03_OS_security_system_programming/03_shell/3.1_shell_part_1/homework_3.1.md)
