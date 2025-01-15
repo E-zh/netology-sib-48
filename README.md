@@ -81,3 +81,5 @@
 ## Блок 3. Использование скриптовых языков
 
 3.1. [x] [Использование командных оболочек. Часть 1](03_OS_security_system_programming/03_shell/3.1_shell_part_1/homework_3.1.md)
+
+3.2. [x] [Использование командных оболочек. Часть 2](03_OS_security_system_programming/03_shell/3.2_shell_part_2/homework_3.2.md)
