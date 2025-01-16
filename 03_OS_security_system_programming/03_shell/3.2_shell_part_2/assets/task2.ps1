@@ -1,7 +1,8 @@
-$names = Get-ChildItem
-$i=0
+$files = Get-ChildItem
+$i = 0
 
-foreach($n in $names) {
+foreach ($n in $files)
+{
     $i++
     Write-Host ($n.Name)
 }
