@@ -85,3 +85,5 @@
 3.2. [x] [Использование командных оболочек. Часть 2](03_OS_security_system_programming/03_shell/3.2_shell_part_2/homework_3.2.md)
 
 3.3 [x] [Язык Python. Основы](03_OS_security_system_programming/03_shell/3.3_python_basic/homework_3.3.md)
+
+3.4 [x] [Язык Python в информационной безопасности](03_OS_security_system_programming/03_shell/3.4_python_infsec/homework_3.4.md)
