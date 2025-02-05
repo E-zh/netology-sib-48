@@ -89,3 +89,5 @@
 3.4 [x] [Язык Python в информационной безопасности](03_OS_security_system_programming/03_shell/3.4_python_infsec/homework_3.4.md)
 
 3.5 [x] [Язык Python. Криптография](03_OS_security_system_programming/03_shell/3.5_python_crypto/homework_3.5.md)
+
+3.6. [x] [Язык С и программные уязвимости](03_OS_security_system_programming/03_shell/3.6_c_vulnerability/homework_3.6.md)
