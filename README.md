@@ -93,4 +93,6 @@
 
 3.5 [x] [Язык Python. Криптография](03_OS_security_system_programming/03_shell/3.5_python_crypto/homework_3.5.md)
 
-3.6. [x] [Язык С и программные уязвимости](03_OS_security_system_programming/03_shell/3.6_c_vulnerability/homework_3.6.md)
+## Блок 4. Анализ программного обеспечения
+
+4.1. [x] [Язык С и программные уязвимости](03_OS_security_system_programming/04_software_analysis/4.1_c_vulnerability/homework_4.1)
