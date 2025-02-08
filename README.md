@@ -96,3 +96,5 @@
 ## Блок 4. Анализ программного обеспечения
 
 4.1. [x] [Язык С и программные уязвимости](03_OS_security_system_programming/04_software_analysis/4.1_c_vulnerability/homework_4.1.md)
+
+4.2. [x] [Статистический и динамический анализ](03_OS_security_system_programming/04_software_analysis/4.2_stat_dynamic_analysis/homework_4.2.md)
