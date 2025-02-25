@@ -102,3 +102,7 @@
 4.2. [x] [Статистический и динамический анализ](03_OS_security_system_programming/04_software_analysis/4.2_stat_dynamic_analysis/homework_4.2.md)
 
 4.3. [x] [Реверс-инжиниринг](03_OS_security_system_programming/04_software_analysis/4.3_reverse_engineering/homework_4.3.md)
+
+# Модуль "Современная разработка ПО"
+
+1.1. [x] [Контейнеризация (Docker)](04_Software_dev/01_docker/homework_1.1.md)
