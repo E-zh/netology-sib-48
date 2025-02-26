@@ -102,7 +102,7 @@
 
   ![](assets/task03/3_docker_build.jpg)
 
-* скриншот результатов запуска контейнера `sudo docker run –rm image_ezhe_bash`:
+* скриншот результатов запуска контейнера `sudo docker run --rm image_ezhe_bash`:
 
   ![](assets/task03/4_docker_run.jpg)
 
