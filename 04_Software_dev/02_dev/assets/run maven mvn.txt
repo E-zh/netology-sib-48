@@ -1,0 +1,4 @@
+docker-compose run maven mvn -f /app sonar:sonar \
+  -Dsonar.projectKey=ru.netology.ibdev \
+  -Dsonar.host.url=http://sonarqube:9000 \
+  -Dsonar.login=2c4616235282dc4c469ff094575587b9f2f10b49
