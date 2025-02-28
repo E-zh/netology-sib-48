@@ -108,3 +108,5 @@
 1.1. [x] [Контейнеризация (Docker)](04_Software_dev/01_docker/homework_1.1.md)
 
 1.2. [x] [Популярные языки, системы сборки, управления зависимостями](04_Software_dev/02_dev/homework_1.2.md)
+
+1.3. [x] [Системы контроля версий и CI/CD](04_Software_dev/03_cicd/homework_1.3.md)
