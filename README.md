@@ -112,3 +112,5 @@
 1.3. [x] [Системы контроля версий и CI/CD](04_Software_dev/03_cicd/homework_1.3.md)
 
 1.4. [x] [Системы хранения данных (СУБД)](04_Software_dev/04_dbms/homework_1.4.md)
+
+1.5. [x] [Системы хранения данных: кеши, очереди, файловая система](04_Software_dev/05_storage/homework_1.5.md)
