@@ -115,4 +115,4 @@
 
 1.5. [x] [Системы хранения данных: кеши, очереди, файловая система](04_Software_dev/05_storage/homework_1.5.md)
 
-1.6. [x] [SQL и транзакции]()
+1.6. [x] [SQL и транзакции](04_Software_dev/06_sql_transactions/homework_1.6.md)
