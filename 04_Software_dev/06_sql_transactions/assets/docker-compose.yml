@@ -1,0 +1,29 @@
+version: '3.7'
+services:
+  backend:
+    image: ghcr.io/netology-code/ibweb-sqli-back:latest
+    environment:
+      - DSN=postgres://app:pass@db:5432/db
+    ports:
+      - 9999:9999
+    depends_on:
+      - db
+  frontend:
+    image: ghcr.io/netology-code/ibweb-sqli-front:latest
+    environment:
+      - API=http://backend:9999/api
+    ports:
+      - 8888:80
+    depends_on:
+      - backend
+  db:
+    image: postgres:alpine
+    command: [ "postgres", "-c", "log_statement=all" ]
+    environment:
+      - POSTGRES_PASSWORD=pass
+      - POSTGRES_USER=app
+      - POSTGRES_DB=db
+    ports:
+      - 5432:5432
+    volumes:
+      - ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d:ro
