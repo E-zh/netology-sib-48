@@ -118,3 +118,7 @@
 1.6. [x] [SQL и транзакции](04_Software_dev/06_sql_transactions/homework_1.6.md)
 
 1.7. [x] [JavaScript](04_Software_dev/07_javascript/homework_1.7.md)
+
+# Модуль "Администрирование СЗИ"
+
+1.1 [x] [Системы защиты информации](05_admin_ISS/01_inf_sec_systems/homework_1.1.md)
