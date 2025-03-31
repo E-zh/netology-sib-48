@@ -124,3 +124,5 @@
 1.1. [x] [Системы защиты информации](05_admin_ISS/01_inf_sec_systems/homework_1.1.md)
 
 1.2. [x] [СЗИ от несанкционированного доступа](05_admin_ISS/02_szi_nsd/homework_1.2.md)
+
+1.3. [x] [IDS/IPS](05_admin_ISS/03_ids_ips/homework_1.3.md)
