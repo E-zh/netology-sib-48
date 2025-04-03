@@ -126,3 +126,5 @@
 1.2. [x] [СЗИ от несанкционированного доступа](05_admin_ISS/02_szi_nsd/homework_1.2.md)
 
 1.3. [x] [IDS/IPS](05_admin_ISS/03_ids_ips/homework_1.3.md)
+
+1.4. [x] [SIEM](05_admin_ISS/04_siem/homework_1.4.md)
