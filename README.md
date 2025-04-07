@@ -128,3 +128,5 @@
 1.3. [x] [IDS/IPS](05_admin_ISS/03_ids_ips/homework_1.3.md)
 
 1.4. [x] [SIEM](05_admin_ISS/04_siem/homework_1.4.md)
+
+1.5. [x] [Средства антивирусной защиты](05_admin_ISS/05_kes/homework_1.5.md)
