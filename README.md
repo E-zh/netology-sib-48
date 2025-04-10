@@ -130,3 +130,5 @@
 1.4. [x] [SIEM](05_admin_ISS/04_siem/homework_1.4.md)
 
 1.5. [x] [Средства антивирусной защиты](05_admin_ISS/05_kes/homework_1.5.md)
+
+1.6. [x] [WAF](05_admin_ISS/06_waf)
