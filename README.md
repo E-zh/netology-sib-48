@@ -132,3 +132,11 @@
 1.5. [x] [Средства антивирусной защиты](05_admin_ISS/05_kes/homework_1.5.md)
 
 1.6. [x] [WAF](05_admin_ISS/06_waf/homework_1.6.md)
+
+# Модуль "Современная киберпреступность и методы противодействия"
+
+1.1. [x] [Тест - Анализ артефактов ОС Windows](06_Modern_cybercrime/01_Test/homework_1.1.md)
+
+1.2. [x] [Тест - Исследование дампов оперативной памяти](06_Modern_cybercrime/02_Test/homework_2.1.md)
+
+1.3. [x] [Тест - Анализ вредоносного ПО](06_Modern_cybercrime/03_Test/homework_3.1.md)
