@@ -7,7 +7,7 @@
 
 0.3. [x] [Дополнительные материалы «Администрирование баз данных»](addons-db.md)
 
-# Модуль "Основы информационной безопасности"
+# Модуль 1. Основы информационной безопасности
 
 ## Блок 1. Введение в информационную безопасность
 
@@ -39,7 +39,7 @@
 
 4.2 [x] [Международные и отраслевые стандарты](01_inf_security_basics/04_financical/04.2_standards/homework_4.2.md)
 
-# Модуль "Сети передачи данных и безопасность"
+# Модуль 2. Сети передачи данных и безопасность
 
 ## Блок 1. Сетевые устройства и протоколы
 
@@ -69,7 +69,7 @@
 
 3.3. [x] [Организация безопасности сети](02_network_inf_security/03_basic_net_security/3.3_safe_lan/homework_3.3.md)
 
-# Модуль "Безопасность операционных систем, системное программирование"
+# Модуль 3. Безопасность операционных систем, системное программирование
 
 ## Блок 1. ОС Windows
 
@@ -103,40 +103,40 @@
 
 4.3. [x] [Реверс-инжиниринг](03_OS_security_system_programming/04_software_analysis/4.3_reverse_engineering/homework_4.3.md)
 
-# Модуль "Современная разработка ПО"
+# Модуль 4. Современная разработка ПО
 
-1.1. [x] [Контейнеризация (Docker)](04_Software_dev/01_docker/homework_1.1.md)
+4.1. [x] [Контейнеризация (Docker)](04_Software_dev/01_docker/homework_4.1.md)
 
-1.2. [x] [Популярные языки, системы сборки, управления зависимостями](04_Software_dev/02_dev/homework_1.2.md)
+4.2. [x] [Популярные языки, системы сборки, управления зависимостями](04_Software_dev/02_dev/homework_4.2.md)
 
-1.3. [x] [Системы контроля версий и CI/CD](04_Software_dev/03_cicd/homework_1.3.md)
+4.3. [x] [Системы контроля версий и CI/CD](04_Software_dev/03_cicd/homework_4.3.md)
 
-1.4. [x] [Системы хранения данных (СУБД)](04_Software_dev/04_dbms/homework_1.4.md)
+4.4. [x] [Системы хранения данных (СУБД)](04_Software_dev/04_dbms/homework_4.4.md)
 
-1.5. [x] [Системы хранения данных: кеши, очереди, файловая система](04_Software_dev/05_storage/homework_1.5.md)
+4.5. [x] [Системы хранения данных: кеши, очереди, файловая система](04_Software_dev/05_storage/homework_4.5.md)
 
-1.6. [x] [SQL и транзакции](04_Software_dev/06_sql_transactions/homework_1.6.md)
+4.6. [x] [SQL и транзакции](04_Software_dev/06_sql_transactions/homework_4.6.md)
 
-1.7. [x] [JavaScript](04_Software_dev/07_javascript/homework_1.7.md)
+4.7. [x] [JavaScript](04_Software_dev/07_javascript/homework_4.7.md)
 
-# Модуль "Администрирование СЗИ"
+# Модуль 5. Администрирование СЗИ
 
-1.1. [x] [Системы защиты информации](05_admin_ISS/01_inf_sec_systems/homework_1.1.md)
+5.1. [x] [Системы защиты информации](05_admin_ISS/01_inf_sec_systems/homework_5.1.md)
 
-1.2. [x] [СЗИ от несанкционированного доступа](05_admin_ISS/02_szi_nsd/homework_1.2.md)
+5.2. [x] [СЗИ от несанкционированного доступа](05_admin_ISS/02_szi_nsd/homework_5.2.md)
 
-1.3. [x] [IDS/IPS](05_admin_ISS/03_ids_ips/homework_1.3.md)
+5.3. [x] [IDS/IPS](05_admin_ISS/03_ids_ips/homework_5.3.md)
 
-1.4. [x] [SIEM](05_admin_ISS/04_siem/homework_1.4.md)
+5.4. [x] [SIEM](05_admin_ISS/04_siem/homework_5.4.md)
 
-1.5. [x] [Средства антивирусной защиты](05_admin_ISS/05_kes/homework_1.5.md)
+5.5. [x] [Средства антивирусной защиты](05_admin_ISS/05_kes/homework_5.5.md)
 
-1.6. [x] [WAF](05_admin_ISS/06_waf/homework_1.6.md)
+5.6. [x] [WAF](05_admin_ISS/06_waf/homework_5.6.md)
 
-# Модуль "Современная киберпреступность и методы противодействия"
+# Модуль 6. Современная киберпреступность и методы противодействия
 
-1.1. [x] [Тест - Анализ артефактов ОС Windows](06_Modern_cybercrime/01_Test/homework_1.1.md)
+6.1. [x] [Тест - Анализ артефактов ОС Windows](06_Modern_cybercrime/01_Test/homework_6.1.md)
 
-1.2. [x] [Тест - Исследование дампов оперативной памяти](06_Modern_cybercrime/02_Test/homework_2.1.md)
+6.2. [x] [Тест - Исследование дампов оперативной памяти](06_Modern_cybercrime/02_Test/homework_6.2.md)
 
-1.3. [x] [Тест - Анализ вредоносного ПО](06_Modern_cybercrime/03_Test/homework_3.1.md)
+6.3. [x] [Тест - Анализ вредоносного ПО](06_Modern_cybercrime/03_Test/homework_6.3.md)
