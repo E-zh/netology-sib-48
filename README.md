@@ -140,3 +140,7 @@
 6.2. [x] [Тест - Исследование дампов оперативной памяти](06_Modern_cybercrime/02_Test/homework_6.2.md)
 
 6.3. [x] [Тест - Анализ вредоносного ПО](06_Modern_cybercrime/03_Test/homework_6.3.md)
+
+# Модуль 7. Attack & Defence
+
+7.3. [x] [Linux Hardening](07_attack_and_defence/01_linux_hardening/homework_7.1.md)
