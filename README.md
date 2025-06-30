@@ -144,3 +144,5 @@
 # Модуль 7. Attack & Defence
 
 7.1. [x] [Linux Hardening](07_attack_and_defence/01_linux_hardening/homework_7.1.md)
+
+7.2. [x] [Windows Hardening](07_attack_and_defence/02_windows_hardening/homework_7.2.md)
