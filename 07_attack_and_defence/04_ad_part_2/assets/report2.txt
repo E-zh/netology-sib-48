@@ -1,0 +1,153 @@
+
+Диагностика сервера каталогов
+
+Выполнение начальной настройки:
+   * Подключение к службе каталога на сервере AD-NETOLOGY.
+   * Определен лес AD. 
+   Collecting AD specific global data 
+   * Сбор сведений о сайте.
+   Calling ldap_search_init_page(hld,CN=Sites,CN=Configuration,DC=netology,DC=local,LDAP_SCOPE_SUBTREE,(objectCategory=ntDSSiteSettings),.......
+   The previous call succeeded 
+   Iterating through the sites 
+   Looking at base site object: CN=NTDS Site Settings,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=netology,DC=local
+   Getting ISTG and options for the site
+   * Выполнение идентификации всех серверов.
+   Calling ldap_search_init_page(hld,CN=Sites,CN=Configuration,DC=netology,DC=local,LDAP_SCOPE_SUBTREE,(objectClass=ntDSDsa),.......
+   The previous call succeeded....
+   The previous call succeeded
+   Iterating through the list of servers 
+   Getting information for the server CN=NTDS Settings,CN=AD-NETOLOGY,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=netology,DC=local 
+   objectGuid obtained
+   InvocationID obtained
+   dnsHostname obtained
+   site info obtained
+   All the info for the server collected
+   * Идентификация всех перекрестных ссылок NC.
+   * Найдено 1 DC (контроллеров домена). Проверка 1 из них.
+   Сбор начальных данных завершен.
+
+Выполнение обязательных начальных проверок
+   
+   Сервер проверки: Default-First-Site-Name\AD-NETOLOGY
+      Запуск проверки: Connectivity
+         * Active Directory LDAP Services Check
+         Determining IP4 connectivity 
+         * Active Directory RPC Services Check
+         ......................... AD-NETOLOGY - пройдена проверка Connectivity
+
+Выполнение основных проверок
+   
+   Сервер проверки: Default-First-Site-Name\AD-NETOLOGY
+      Проверка пропущена по запросу пользователя: Advertising
+      Проверка пропущена по запросу пользователя: CheckSecurityError
+      Проверка пропущена по запросу пользователя: CutoffServers
+      Проверка пропущена по запросу пользователя: FrsEvent
+      Проверка пропущена по запросу пользователя: DFSREvent
+      Проверка пропущена по запросу пользователя: SysVolCheck
+      Проверка пропущена по запросу пользователя: KccEvent
+      Проверка пропущена по запросу пользователя: KnowsOfRoleHolders
+      Проверка пропущена по запросу пользователя: MachineAccount
+      Проверка пропущена по запросу пользователя: NCSecDesc
+      Проверка пропущена по запросу пользователя: NetLogons
+      Проверка пропущена по запросу пользователя: ObjectsReplicated
+      Проверка пропущена по запросу пользователя: OutboundSecureChannels
+      Проверка пропущена по запросу пользователя: Replications
+      Проверка пропущена по запросу пользователя: RidManager
+      Проверка пропущена по запросу пользователя: Services
+      Проверка пропущена по запросу пользователя: SystemLog
+      Проверка пропущена по запросу пользователя: Topology
+      Проверка пропущена по запросу пользователя: VerifyEnterpriseReferences
+      Проверка пропущена по запросу пользователя: VerifyReferences
+      Проверка пропущена по запросу пользователя: VerifyReplicas
+   
+      Запуск проверки: DNS
+         
+         Проверки DNS выполняются без зависания. Подождите несколько минут...
+         See DNS test in enterprise tests section for results
+         ......................... AD-NETOLOGY - пройдена проверка DNS
+   
+   Выполнение проверок разделов на: ForestDnsZones
+      Проверка пропущена по запросу пользователя: CheckSDRefDom
+      Проверка пропущена по запросу пользователя: CrossRefValidation
+   
+   Выполнение проверок разделов на: DomainDnsZones
+      Проверка пропущена по запросу пользователя: CheckSDRefDom
+      Проверка пропущена по запросу пользователя: CrossRefValidation
+   
+   Выполнение проверок разделов на: Schema
+      Проверка пропущена по запросу пользователя: CheckSDRefDom
+      Проверка пропущена по запросу пользователя: CrossRefValidation
+   
+   Выполнение проверок разделов на: Configuration
+      Проверка пропущена по запросу пользователя: CheckSDRefDom
+      Проверка пропущена по запросу пользователя: CrossRefValidation
+   
+   Выполнение проверок разделов на: netology
+      Проверка пропущена по запросу пользователя: CheckSDRefDom
+      Проверка пропущена по запросу пользователя: CrossRefValidation
+   
+   Выполнение проверок предприятия на: netology.local
+      Запуск проверки: DNS
+         Результаты проверки контроллеров домена:
+            
+            Контроллер домена: AD-NETOLOGY.netology.local
+            Домен: netology.local
+            
+                  
+               TEST: Authentication (Auth)
+                  Тест проверки подлинности: завершен успешно
+                  
+               TEST: Basic (Basc)
+                  ОС Майкрософт Windows Server 2019 Standard (Service Pack level: 0.0) поддерживается.
+                  NETLOGON служба запущена.
+                  kdc служба запущена.
+                  DNSCACHE служба запущена.
+                  DNS служба запущена.
+                  DC является DNS-сервером
+                  Сведения о сетевых адаптерах:
+                  Адаптер [00000001] Intel(R) PRO/1000 MT Desktop Adapter:
+                     MAC address is 08:00:27:45:AD:27
+                     IP-адрес является статическим 
+                     IP address: 192.168.1.1
+                     DNS-серверы:
+                        127.0.0.1 (AD-NETOLOGY) [Valid]
+                  Адаптер [00000002] Intel(R) PRO/1000 MT Desktop Adapter:
+                     MAC address is 08:00:27:7F:6E:82
+                     Предупреждение: IP-адрес является динамическим (возможна неправильная настройка)
+                     Внимание! У адаптера 08:00:27:7F:6E:82 динамический IP-адрес(возможна неправильная настройка)
+                     IP address: 10.0.2.15
+                     DNS-серверы:
+                        127.0.0.1 (AD-NETOLOGY) [Valid]
+                  The A host record(s) for this DC was found
+                  The SOA record for the Active Directory zone was found
+                  The Active Directory zone on this DC/DNS server was found primary
+                  Root zone on this DC/DNS server was not found
+                  
+               TEST: Forwarders/Root hints (Forw)
+                  Recursion is enabled
+                  Forwarders Information: 
+                     10.0.2.3 (<name unavailable>) [Valid] 
+         
+         Отчет о результатах проверки DNS-серверов, используемых приведенными выше контроллерами домена:
+         
+            DNS-сервер: 10.0.2.15 (AD-NETOLOGY)
+               Все проверки для данного DNS-сервера пройдены
+               Name resolution is functional._ldap._tcp SRV record for the forest root domain is registered 
+               
+            DNS-сервер: 10.0.2.3 (<name unavailable>)
+               Все проверки для данного DNS-сервера пройдены
+               
+            DNS-сервер: 192.168.1.1 (AD-NETOLOGY)
+               Все проверки для данного DNS-сервера пройдены
+               Name resolution is functional._ldap._tcp SRV record for the forest root domain is registered 
+               
+         Отчет по результатам проверки DNS:
+         
+                                            Auth Basc Forw Del  Dyn  RReg Ext
+            _________________________________________________________________
+            Домен: netology.local
+               AD-NETOLOGY                  PASS WARN PASS n/a  n/a  n/a  n/a  
+         
+         ......................... netology.local - пройдена проверка DNS
+      Проверка пропущена по запросу пользователя: LocatorCheck
+      Проверка пропущена по запросу пользователя: Intersite
