@@ -150,3 +150,5 @@
 7.3. [x] [Active Directory. Часть 1](07_attack_and_defence/03_ad_part_1/homework_7.3.md)
 
 7.4. [x] [Active Directory. Часть 2](07_attack_and_defence/04_ad_part_2/homework_7.4.md)
+
+7.5. [x] [Мониторинг событий безопасности (Suricata)]
