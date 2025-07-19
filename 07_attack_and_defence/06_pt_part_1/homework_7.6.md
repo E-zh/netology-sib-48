@@ -136,3 +136,7 @@ URL экземпляра - [https://google-gruyere.appspot.com/52672518299333817
     При этом файл был загружен:
 
     ![](assets/task02/pt7.jpg)
+
+    P.S. - нашел информацию на сайте [https://www.forensicxs.com/google-gruyere/](https://www.forensicxs.com/google-gruyere/),
+    что сообщение `Server has been 0wnd` является нормальной реакцией, т.е. всё верно, сайт был сломан, а затем восстановлен автоматически Google.
+    Соответственно задание выполнено верно, уязвимость найдена, атака удалась.
