@@ -154,3 +154,5 @@
 7.5. [x] [Мониторинг событий безопасности (Suricata)](07_attack_and_defence/05_suricata/homework_7.5.md)
 
 7.6. [x] [Penetration Testing. Часть 1](07_attack_and_defence/06_pt_part_1/homework_7.6.md)
+
+7.7. [x] [Penetration Testing. Часть 2](07_attack_and_defence/07_pt_part_2/homework_7.7.md)
